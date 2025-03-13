@@ -1,0 +1,21 @@
+Syslog is a protocol that allows system administrators to monitor and manage logs from different parts of a system.
+
+Network Time Protocol (NTP) is a networking protocol that synchronizes clocks between devices over the internet.
+
+SSH, which stands for Secure Shell, is a cryptographic network protocol used for establishing secure remote access to computers and servers over an unsecured network, providing secure and encrypted communication
+
+Access Control Lists (ACLs) are sets of rules that control network traffic by allowing or denying access to specific resources based on criteria like source/destination IP addresses, ports, and protocols, enhancing security by preventing unauthorized acces
+
+A firewall is a security system that monitors and controls network traffic
+
+An Intrusion Prevention System (IPS) is a network security tool that monitors and prevents malicious activity on a network
+
+A virtual local area network (VLAN) is a virtualized connection that connects multiple devices and network nodes from different LANs into one logical network.
+
+A Site-to-Site VPN using IPsec establishes a secure, encrypted connection between two or more networks
+
+Adaptive Security Appliance (ASA) is a multi-functional network security device that combines firewall, antivirus, intrusion prevention, and VPN capabilities, providing proactive threat defense to protect networks.
+
+TELNET  is a network protocol that lets you communicate with remote computers.
+
+AAA stands for Authentication, Authorization, and Accounting. It's a security framework that controls access to network resources and services.  
